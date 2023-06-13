@@ -8,4 +8,4 @@ Git e Github
 
 Com o intuito de me aprofundar mais em ambas as tecnologias.
 
-Responsividade foi adicionar porém ainda sem mediaquery, futuramente será modificado.
+Responsividade foi adicionada porém ainda sem mediaquery, futuramente será modificado.
